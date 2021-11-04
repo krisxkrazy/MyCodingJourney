@@ -19,7 +19,7 @@ Please fill free to use all notes commited to this repository for personal learn
 
 - [x] Add Changelog
 
-* [x] Constant Update(s)
+* [x] Constant Update(s) Every Saturday!
 
 
 
