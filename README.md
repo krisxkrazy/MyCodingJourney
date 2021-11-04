@@ -1,5 +1,3 @@
-# MyCodingJourney
-
 ## Kris | MyCodingJourning 
 [Enjoy!]
 
