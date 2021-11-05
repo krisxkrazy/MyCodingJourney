@@ -1,0 +1,4 @@
+# this project is to show that new print statements print on a new line!
+
+print("Hello")
+print("There")
