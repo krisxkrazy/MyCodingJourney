@@ -1,0 +1,3 @@
+# project 1 :: print hello world!
+# the print statement is used to output words and phrases!
+print("Hello World")
