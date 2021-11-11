@@ -1,0 +1,11 @@
+# ********************************************************************************
+# *  this is a practice of storing variables, and how to use them!               *
+# *  a variable for example x can store names like kris for example              *
+# *  try this x = kris this will store kris in the variable x                    *
+# *  do not put quotes around the variable when using it in a print statement!   *
+# *  that will turn it into a string literal for example ("Hello")               *
+# *  the console when only display letter for letter what has been typed in!     *
+# ********************************************************************************
+
+name = "Kris Senpai"
+print("Hello " + name + "!")
