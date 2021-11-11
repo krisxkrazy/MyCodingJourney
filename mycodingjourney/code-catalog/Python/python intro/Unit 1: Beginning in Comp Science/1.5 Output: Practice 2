@@ -1,0 +1,16 @@
+# *********************************************
+# * now we practice escape charcters!         *
+# * in the escape \n command n means new line *
+# *********************************************
+
+#TRY IT: 
+# print("Hello", end="")
+# print(" there")
+
+#Sequence1
+#print("Hello \nWorld")
+
+#Seqeunce2
+#the comma acts to keep the next print statement on the same line!
+print("Hello", end="")
+print(" there")
