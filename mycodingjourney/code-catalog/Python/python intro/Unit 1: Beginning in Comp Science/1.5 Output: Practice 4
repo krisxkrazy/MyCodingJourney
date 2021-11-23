@@ -1,0 +1,8 @@
+#when you print numbers in a statement they will follow the regular order of operations!
+#Note: if you use quotations to turn your statement into a string literal it will print out exactly what you type!
+
+#example one prints the operation 
+print (7 * 7 + 22)
+
+#example to is the wrong one! prints a string literal!
+print("7 * 7 + 22")
