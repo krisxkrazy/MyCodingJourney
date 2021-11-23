@@ -1,0 +1,8 @@
+#here we learn how to use the print command to print out statements with quotations!
+#the way to do this is by using the escape charcter \" at the beginig and end of the statement you want in quotes!
+#see example below!
+
+print("\"It is not wise to judge others based on your own preconceptions and by their appearances\"\n\n by Itachi Uchiha")
+
+#Extra Escape charcters 
+#{(\n:New Line),(\t:Tab),(\":Quotation Mark),(\\:Backslash)}
