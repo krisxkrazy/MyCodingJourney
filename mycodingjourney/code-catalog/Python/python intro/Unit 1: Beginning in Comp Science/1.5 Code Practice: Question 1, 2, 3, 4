@@ -1,0 +1,42 @@
+# ******************************************************************
+# author: kris krazy                                               *
+# course: dgs app dev I                                            *
+# 1.5 Code Practice: Question 1, 2, 3                              *
+# ******************************************************************
+
+
+# Code Practice Question 1 
+
+#Write a one-line program to output the following haiku. Keep in mind that for a one-line program, only one print command is used.
+#Remember that the escape characters \n and \t can be used to create new lines or tabs for extra spacing.
+
+print("A lightning flash: \nbetween the forest trees \nI have seen water. \n\t- Shiki")
+
+# Code Practice Question 2
+
+#the challenge below was to print a box of astricts the word python inside while only using one print statement!
+
+print("********** \n \n*        * \n \n* PYTHON * \n \n*        * \n \n**********")
+
+
+# Code Practice Question 3
+
+#Remember that the escape characters \n and \" can be used to create new lines and quotation marks in your code.
+#this is another example of a quote made using escape charcters 
+
+print("\"Computer Science is no more about computers \nthan astronomy is about telescopes\" \n- Edsger W. Dijkstra")
+
+# Code Practice Question 4
+
+# Remember that the escape character \\ can be used to write a backslash symbol in your code.
+
+print("              )\n             (\n         ^    )\n        / \ ---\n       /   \| |\n      /  _  \ |\n     /  (_)  \|\n    /         \\ \n   /|   _   _  \ ")
+print("    |  | | | |  \ ")
+print("    |  |_| |_|  |\ ")
+print("    |   __   __ | ")
+print("    |  |  | |  ||      # ")
+print("    |  | @| |__||     ### ")
+print("    |  |  |     |    ##### ")
+print(" \/\/\/\/\/\/\/\/\/\/\/\/\/ ")
+
+#arigato gozaimasu 
