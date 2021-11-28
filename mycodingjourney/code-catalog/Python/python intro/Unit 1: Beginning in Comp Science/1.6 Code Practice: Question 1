@@ -1,6 +1,6 @@
 # ****************************************************
 #  By: Kris Krazy                                    *
-#  1.6 Input: Practice 1 & 2                         *
+#  1.6 Question 1                                    *
 # ****************************************************
 
 #Write a program that uses two input statements to get two words as input. Then, print the words on one line separated by a space. Your program's output should only include the two words and a space between them.
