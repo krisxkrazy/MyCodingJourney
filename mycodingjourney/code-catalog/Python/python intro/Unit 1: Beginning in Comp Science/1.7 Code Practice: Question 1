@@ -1,0 +1,10 @@
+# ****************************************************
+#  By: Kris Krazy                                    *
+#  1.7 Code Practice: Question 1                     *
+# ****************************************************
+
+#The following code should take a number as input, multiply it by 8, and print the result.  In line 2 of the code below, the * symbol represents multiplication.
+# the python symbol for multiplication is * for an exponent it is **.
+
+num = int(input("Enter a number: "))
+print(num * 8)
