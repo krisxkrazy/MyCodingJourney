@@ -1,0 +1,40 @@
+# ****************************************************
+#  By: Kris Krazy                                    *
+#  1.6 Input: Practice 1 & 2                         *
+# ****************************************************
+
+
+#the purpose of this is to learn the input command 
+#the input command allows a user to choose what is stored in the variable 
+#for example name = input("Whats your name?") 
+#that command will prompt a user to input their name and then store it in the variable name!
+
+name = input("What is your name? ")
+
+print("Arigato gozaimasu " + name + " nice to meet you!")
+
+#TRY IT!
+#input a name and an adjective and print!
+
+name = input("What is your name? ")
+adjective = input("Choose an adjective. ")
+
+
+print("Arigato! " + name + "," + " nice to see you. You seem very " + adjective + " today.")
+
+#RULES FOR GOOD VARIABLE NAMES 
+
+#Can use letters and numbers, but no spaces 
+#Must start with a letter-usually lowercase 
+#Variable should describe what it holds 
+
+# variable name examples
+
+#(test1,test2,test3)
+#(capitalizeEachWordInLongNames)
+#(or_use_underscores)
+
+#VOCABULARY IN THIS LESSON 
+
+#input = the user sends informaation to the computer.
+#variable = a name for a spot in the computers memory.
