@@ -1,0 +1,12 @@
+# ****************************************************
+#  By: Kris Krazy                                    *
+#  1.6 Input: Practice 1 & 2                         *
+# ****************************************************
+
+#Write a program that uses two input statements to get two words as input. Then, print the words on one line separated by a space. Your program's output should only include the two words and a space between them.
+
+#Hint: To print both words on one line, remember that you can concatenate (add) two phrases by using the + symbol.  Don't forget that you'll need to add a space between the words as well.
+
+word1 = input("Enter a word: ")
+word2 = input("Enter a word: ")
+print(word1 + " " +  word2)
