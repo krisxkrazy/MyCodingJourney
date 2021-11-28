@@ -1,0 +1,28 @@
+# ****************************************************
+#  By: Kris Krazy                                    *
+#  1.6 Question 1                                    *
+# ****************************************************
+
+#VARIABLES 
+
+#A name for a spot in the computers memory 
+#This value can change while the program runs 
+#Different types of data take up different amounts of space in memeory 
+
+#EXAMPLES (First Name = fName ; Last Name = lName)
+
+# what we are working with
+#(integers, decimal values, strings)
+
+#input automatically deals with words!
+
+#TRY IT
+#the int command must be used before input to ensure the computer knows you are inputing an integer
+#when adding a word and integer together you must convert the integer to a string using the str command and parenthesis surrounding the int(s)
+
+num1 = int(input("Enter a number: "))
+num2 = int(input("Enter a number: "))
+
+print ("Answer: " + str(num1 + num2))
+
+#int: the int function tells Python to hadle the value in the () as a number, not as words 
