@@ -1,4 +1,4 @@
-## Kris | MyCodingJourning 
+## Kris | MyCodingJourning - (Currently Paused)
 [Enjoy!]
 
 Please Enjoy! I have loved computer(s) from a very young age, and played around with things like inspecting page code and playing with it when I was little however it wasn't until around age 15 when my knowledge on computer tech started to really increase and I got into cyber security, at age 16 I decieded to master multiple languages of code and fell in love when seeing the endless creations I could make, and the momentous amount of things I could help build on top of, or modify!
